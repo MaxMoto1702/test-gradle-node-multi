@@ -1,1 +1,7 @@
 apply plugin: 'java'
+
+// task wrapper(type: Wrapper) {
+// 	distributionBase = Wrapper.PathBase.PROJECT
+// 	distributionPath = "gradle/wrapper/dists"
+// 	gradleVersion = '2.10'
+// }
