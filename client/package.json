@@ -1,0 +1,7 @@
+{
+  "name": "gradle-gulp",
+  "devDependencies": {
+    "bower": "*",
+    "gulp": "*"
+  }
+}
